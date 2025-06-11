@@ -194,7 +194,7 @@ ProfileScreen         |  EditProfileScreen       |   EditScreenFild             
 </div>
 
 ## Project Structure and Explanations
-
+We used firebase studio's ai to generate the docs with mixed results, we use all the files asking by an explanation:   
 Here are links to detailed explanations of key parts of the project:
 
 *   [Android Build Files Explanation](android/explanation.md)
