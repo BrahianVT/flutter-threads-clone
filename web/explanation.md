@@ -36,7 +36,7 @@ This file serves as the container for your Flutter web application. It loads the
 This file is the web app manifest, a JSON file that provides information about your web application to the browser. It's essential for enabling Progressive Web App (PWA) features.
 
 json
-{
+```{
     "name": "danter", // The full name of the web application
     "short_name": "danter", // A shorter name for the web application (used on home screen icons)
     "start_url": ".", // The URL that the user navigates to when launching the web app
@@ -71,6 +71,7 @@ json
         }
     ]
 }
+```
 
 Explanation:
 
