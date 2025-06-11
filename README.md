@@ -193,6 +193,22 @@ ProfileScreen         |  EditProfileScreen       |   EditScreenFild             
   <p>Made with ❤️ by <a href="https://github.com/DanialYazdanParast">Danial</a></p>
 </div>
 
+## Project Structure and Explanations
+
+Here are links to detailed explanations of key parts of the project:
+
+*   [Android Build Files Explanation](android/explanation.md)
+*   [Theme Configuration Explanation](lib/config/theme/explanation.md)
+*   [Core Constants Explanation](lib/core/constants/explanation.md)
+*   [Core Extensions Explanation](lib/core/extensions/explanation.md)
+*   [Core Utilities Explanation](lib/core/util/explanation.md)
+*   [Core Widgets Explanation](lib/core/widgets/explanation.md)
+*   [Data Source Layer Explanation](lib/data/datasource/explanation.md)
+*   [Data Model Layer Explanation](lib/data/model/explanation.md)
+*   [Data Repository Layer Explanation](lib/data/repository/explanation.md)
+*   [Authentication BLoC Explanation](lib/screen/auth/bloc/explanation.md)
+*   [Authentication Widgets Explanation](lib/screen/auth/widgets/explanation.md)
+*   [Web Files Explanation](web/explanation.md)
 
 
 

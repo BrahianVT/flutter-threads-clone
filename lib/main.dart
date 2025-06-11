@@ -1,5 +1,5 @@
 import 'dart:io';
-
+// /home/user/flutter-threads-clone/lib/flutter
 import 'package:danter/core/constants/theme.dart';
 import 'package:danter/data/model/user.dart';
 import 'package:danter/data/repository/auth_repository.dart';
